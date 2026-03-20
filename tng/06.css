@@ -1,0 +1,16 @@
+* {
+  line-height: 2rem;
+}
+
+h1 {
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+}
+
+strong {
+  font-size: 1.5em;
+  color: #ad3000;
+}
